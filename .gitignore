@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Large datasets / images
+bark_images_and_labels/
+bark_images_and_labels.zip
+
+# Model outputs
+*.pt
+*.pth
+*.ckpt
+
+# OS junk
+Thumbs.db
+.DS_Store
