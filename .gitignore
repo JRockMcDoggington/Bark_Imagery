@@ -25,3 +25,9 @@ bark_images_and_labels.zip
 # OS junk
 Thumbs.db
 .DS_Store
+
+#all .zip files
+*.zip
+
+#all .csv files
+*.csv
